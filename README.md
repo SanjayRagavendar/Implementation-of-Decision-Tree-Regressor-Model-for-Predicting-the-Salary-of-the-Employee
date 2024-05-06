@@ -76,39 +76,21 @@ plt.show()
 ```
 
 ## Output:
-### Printing head
 
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/91368803/f92ba820-3c03-4b0e-b2e7-cf6ecaac3e07)
+![Screenshot 2024-04-06 114035](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/69666c35-6fac-4e88-8d42-0119bdb0ce89)
 
-### Printing info about dataset
+![Screenshot 2024-04-06 114043](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/2de5b878-0b66-42c0-bac7-cb3a9b6fba0d)
 
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/91368803/148ecec8-b241-4046-a2a3-c1b3161845b7)
+![Screenshot 2024-04-06 114047](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/19e992d1-f22c-4492-a088-760d25dc607f)
 
-### Counting the null values
+![Screenshot 2024-04-06 114051](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/17415255-3f43-4983-8cd6-337e31da5153)
 
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/91368803/04c2aad3-d6e7-4263-a9c5-16542231360c)
+![Screenshot 2024-04-06 114055](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/8e9b12d9-c5a6-4608-ab3a-eea15dc71a74)
 
-### Label Encoding the Position Column with 
+![Screenshot 2024-04-06 114058](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/798096c3-f0a1-4a08-8643-68ed09c7d2e0)
 
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/91368803/38085260-8a91-428d-b174-153c8a102623)
+![Screenshot 2024-04-06 114103](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/7c815154-c5c4-423a-b089-c2aed30ab908)
 
-### Spliting the dataset for dependent and independent values
-
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/91368803/1904cc6f-fbcd-4838-aaff-9928cc2a2fd0)
-
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/91368803/562cedde-bd9c-4111-8d3c-5451d01c1e2f)
-
-### MSE for test_data
-
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/91368803/8455b752-799f-4d21-8730-85023b9443bc)
-
-### R2 value for test_data
-
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/91368803/f60a65b5-26ff-4f94-9055-aee257573fbd)
-
-### Printing Plot 
-
-![image](https://github.com/SanjayRagavendar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/91368803/04f40283-df79-4e23-95db-4c1b7f307322)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
